@@ -1,3 +1,5 @@
 Data sources used on the project's development.
 
-Data source is Inmet: https://portal.inmet.gov.br/dadoshistoricos 
+Data source for clima data is Inmet: https://portal.inmet.gov.br/dadoshistoricos 
+
+Data source for production data is IBGE: https://www.ibge.gov.br/explica/producao-agropecuaria/
